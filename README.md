@@ -2,6 +2,7 @@
 Course Material for HarvardEdX CS50 - Introduction to Artificial Intelligence with Python
 
 Lessons:
+
 0. Search
 1. Knowledge
 2. Uncertainty
